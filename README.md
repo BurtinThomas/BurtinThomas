@@ -10,7 +10,7 @@ Backend : Django pour les APIs RESTful et les WebSockets
 Base de données : PostgreSQL
 Docker : Conteneurisation de l'application pour simplifier le déploiement et la gestion des environnements
 Travail en équipe : Collaboration avec le front-end et gestion du versioning avec Git
-🎮 Fonctionnalité clé : Système de remote
+Fonctionnalité clé : Système de remote
 J'ai conçu un système de remote permettant aux utilisateurs de jouer à distance avec une gestion synchronisée des sessions et un chat en temps réel.
 
 # 💻 Tech Stack:
