@@ -1,6 +1,7 @@
 # Bonjour, je suis [Votre Nom] 👋
 
-Bienvenue sur mon profil GitHub ! Je suis développeur web, passionné par le code et la création de projets innovants. Découvrez mes projets et connectez-vous avec moi !
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=philippart-s&show_icons=true&theme=radical&count_private=true)
 
 ## Mes projets
 - [Mon premier projet](https://github.com/votre-utilisateur/mon-premier-projet)
