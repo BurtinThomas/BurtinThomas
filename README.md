@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon GitHub !
 
 Je suis étudiant à l'école 42 et actuellement à la recherche d'un stage. 
 Mon dernier projet, Transcancance, m'a permis de travailler sur une plateforme de jeu en ligne, en me concentrant principalement sur la partie back-end.
