@@ -1,10 +1,8 @@
 # Bienvenue sur mon GitHub !
-
-Je suis étudiant à l'école 42 et actuellement à la recherche d'un stage. 
-Mon dernier projet, Transcendence, m'a permis de travailler sur une plateforme de jeu en ligne, en me concentrant principalement sur la partie back-end.
+actuellement étudiant à l'école 42, vous avec acces depuis mon github a tout mes projet.
 
 💻 Transcendence :
-Transcendence est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a été de développer les APIs Django et de mettre en place des WebSockets pour la communication en temps réel.
+Mon dernier projet, Transcendence est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a ete principalement sur la partie back-end, développer les APIs Django et de mettre en place des WebSockets pour la communication en temps réel.
 
 🛠️ Technologies utilisées :
 Backend : Django pour les APIs RESTful et les WebSockets
