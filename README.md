@@ -1,10 +1,10 @@
 # Bienvenue sur mon GitHub !
 
 Je suis étudiant à l'école 42 et actuellement à la recherche d'un stage. 
-Mon dernier projet, Transcancance, m'a permis de travailler sur une plateforme de jeu en ligne, en me concentrant principalement sur la partie back-end.
+Mon dernier projet, Transcendence, m'a permis de travailler sur une plateforme de jeu en ligne, en me concentrant principalement sur la partie back-end.
 
-🚀 Transcancance :
-Transcancance est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a été de développer les APIs Django et de mettre en place des WebSockets pour la communication en temps réel.
+💻 Transcendence :
+Transcendence est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a été de développer les APIs Django et de mettre en place des WebSockets pour la communication en temps réel.
 
 🛠️ Technologies utilisées :
 Backend : Django pour les APIs RESTful et les WebSockets
