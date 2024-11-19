@@ -2,7 +2,7 @@
 Je m'appelle Thomas J'ai 19 ans et suis étudiant à l'école 42 Paris. Je suis actuellement a la recherche d'un stage en analyse de donner en language python.
 
 💻 Transcendence : <br/>
-Mon dernier projet Transcendence est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a ete principalement sur la partie back-end, développer les APIs avec DjangoRF et la mise en place des WebSockets pour la communication en temps réel et que les utilisateur peuvent jouer a distance.
+Mon dernier projet Transcendence est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a ete principalement sur la partie back-end, développer les APIs avec DjangoRF et la mise en place des WebSockets pour permettre au utilisateur de jouer a distance.
 
 🛠️ Technologies utilisées : <br/>
 Backend : Django pour les APIs RESTful et les WebSockets<br/>
