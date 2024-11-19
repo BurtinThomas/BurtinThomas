@@ -1,5 +1,5 @@
 # Bienvenue sur mon GitHub !
-J'ai 19 ans et suis actuellement étudiant à l'école 42 Paris
+J'ai 19 ans et suis actuellement étudiant à l'école 42 Paris. Je suis a la recherche d'un stage en analyse de donner.
 
 💻 Transcendence : <br/>
 Mon dernier projet Transcendence est une plateforme permettant de jouer en ligne avec une expérience fluide et en temps réel. Mon rôle a ete principalement sur la partie back-end, développer les APIs avec DjangoRF et la mise en place des WebSockets pour la communication en temps réel et que les utilisateur peuvent jouer a distance.
